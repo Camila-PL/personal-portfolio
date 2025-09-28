@@ -19,5 +19,4 @@ It showcases my projects, services, and contact information in a clean and paste
 - **HTML5**  
 - **JavaScript (Vite + React Router)**  
 - **GitHub Pages / Vercel / Netlify** (for hosting)
-- 
 ---
